@@ -1,0 +1,3 @@
+public String test1{set; get;}
+public Int test2{set; get;}
+public Int test4{set; get;}

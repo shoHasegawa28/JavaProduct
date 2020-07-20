@@ -1,0 +1,5 @@
+名前,hoge,型名
+test1,hoge,nvachar(50)
+test2,hoge,tyinyint
+test3,hoge,datetime
+test4,hoge,int
